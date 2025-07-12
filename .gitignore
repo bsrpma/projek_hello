@@ -1,0 +1,12 @@
+# Abaikan semua file di dalam build/
+build/
+
+# Abaikan seluruh isi dist/ KECUALI bikin_ScoreCard.exe
+dist/*
+!dist/bikin_ScoreCard.exe
+
+# Abaikan file individual
+bikin_ScoreCard.py
+cekversion.py
+download.py
+cara upload ke git.txt
