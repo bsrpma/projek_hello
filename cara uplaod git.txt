@@ -1,0 +1,1 @@
+R:\python\python.exe -m PyInstaller --onefile bikin_ScoreCard.py
