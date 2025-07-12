@@ -2,7 +2,7 @@
 
 import requests
 
-versi_lokal = "1.0.0"
+versi_lokal = "1.0.2"
 url = "https://raw.githubusercontent.com/bsrpma/projek_hello/main/version.txt"
 
 def cek_versi(versi_lokal):
@@ -22,6 +22,3 @@ def cek_versi(versi_lokal):
 
 # Jalankan fungsi cek versi
 cek_versi(versi_lokal)
-
-# Program utama
-print("Hello, world!")
