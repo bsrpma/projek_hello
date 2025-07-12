@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['bikin_ScoreCard_old_rev01.py'],
+    ['bikin_ScoreCard_rev02.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='bikin_ScoreCard_old_rev01',
+    name='bikin_ScoreCard_rev02',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

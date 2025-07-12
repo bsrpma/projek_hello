@@ -1,4 +1,4 @@
-copied: BBG
+copy: BBG
 the_copy:
+BBL
 BJR
-BMA
