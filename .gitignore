@@ -4,6 +4,7 @@
 build/
 download/
 arsip/
+dilarang/
 
 # Abaikan seluruh isi dist/ KECUALI bikin_ScoreCard.exe
 dist/*
