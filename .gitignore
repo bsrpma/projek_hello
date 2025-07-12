@@ -1,6 +1,7 @@
 # Abaikan semua file di dalam build/
 build/
 download/
+arsip/
 
 # Abaikan seluruh isi dist/ KECUALI bikin_ScoreCard.exe
 dist/*
