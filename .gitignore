@@ -1,3 +1,5 @@
+.gitignore
+
 # Abaikan semua file di dalam build/
 build/
 download/

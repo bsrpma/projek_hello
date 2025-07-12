@@ -1,1 +1,6 @@
 R:\python\python.exe -m PyInstaller --onefile bikin_ScoreCard.py
+
+
+git add .
+git commit -m "replace repo with new files"
+git push --force origin main
